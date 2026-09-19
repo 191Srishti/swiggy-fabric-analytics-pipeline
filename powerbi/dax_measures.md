@@ -11,6 +11,8 @@ Calculates total gross revenue generated across all orders.
 ```dax
 Total Sales = SUM(fact_orders[price])
 
+
+## 1. Key Performance Indicators (KPI Cards)
 ### Avg Order Value (AOV)
 Measures the average revenue generated per completed order across all transactions.
 ```dax
